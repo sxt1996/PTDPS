@@ -1,5 +1,5 @@
 # PTDPS
-open source codes of a unpublished paper
+open source codes of paper:《Non-parametric Hyperspectral Anomaly Detection via Topological Disassembly Guided Pixel-level Self-information》
 # Data Set
 AVIRIS-WTC: The data set was acquired on September 16, 2001 by NASA's Jet Propulsion Laboratory using the AVIRIS to image the World Trade Center (WTC) in New York. The experimental image preserves 224 spectral channels spanning the wavelength range of 370-2510 nm. This scene contains 200×200 pixels, of which the anomalies to be detected are fire sources, occupying 83 pixels in a total of 10 locations. 
 # Guidelines
