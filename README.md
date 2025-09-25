@@ -1,5 +1,5 @@
 # PTDPS
-open source codes of paper:《Non-parametric Hyperspectral Anomaly Detection via Topological Disassembly Guided Pixel-level Self-information》
+open source codes of unpublished paper:《Non-parametric Hyperspectral Anomaly Detection via Topological Disassembly Guided Pixel-level Self-information》
 # Index Terms
 Hyperspectral image, anomaly detection, point-set topology, self-information, model-free, parameter-free.
 # Data Set
