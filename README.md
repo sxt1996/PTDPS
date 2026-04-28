@@ -8,7 +8,7 @@ Hyperspectral anomaly detection presents persistent challenges due to the limita
 # Index Terms
 Hyperspectral image, anomaly detection, point-set topology, self-information, model-free, adaptive parameter determination.
 # Flowchart
-<img width="9552" height="10734" alt="Flowchart" src="https://github.com/user-attachments/assets/453c5eee-3c45-4661-b7d5-1b5f0189850e" />.
+<img width="9552" height="10734" alt="Flowchart" src="https://github.com/user-attachments/assets/453c5eee-3c45-4661-b7d5-1b5f0189850e" />
 # Data Set
 AVIRIS-WTC: The data set was acquired on September 16, 2001 by NASA's Jet Propulsion Laboratory using the AVIRIS to image the World Trade Center (WTC) in New York. The experimental image preserves 224 spectral channels spanning the wavelength range of 370-2510 nm. This scene contains 200×200 pixels, of which the anomalies to be detected are fire sources, occupying 83 pixels in a total of 10 locations. 
 # Guidelines
